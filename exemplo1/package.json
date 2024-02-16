@@ -1,0 +1,12 @@
+{
+  "name": "digital-college",
+  "version": "1.0.0",
+  "description": "Repositório para exercícios do curso de Full Stack",
+  "main": "projectStart.js",
+  "scripts": {
+    "create:project": "node ./projectStart.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
